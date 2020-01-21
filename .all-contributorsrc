@@ -14,6 +14,16 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "chartgerink",
+      "name": "Chris Hartgerink",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2946344?v=4",
+      "profile": "https://chjh.nl",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
