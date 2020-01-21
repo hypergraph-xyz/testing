@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nehamoopen",
+      "name": "nehamoopen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37183829?v=4",
+      "profile": "https://github.com/nehamoopen",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing",
+  "projectOwner": "hypergraph-xyz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
