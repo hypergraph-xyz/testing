@@ -1,6 +1,9 @@
 {
   "main": "testers.json",
   "scripts": {
-    "test": "node -pe \"require('.')\""
+    "test": "prettier-standard && node -pe \"require('.')\""
+  },
+  "devDependencies": {
+    "prettier-standard": "^16.4.1"
   }
 }
