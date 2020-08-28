@@ -1,0 +1,6 @@
+{
+  "main": "testers.json",
+  "scripts": {
+    "test": "node -pe \"require('.')\""
+  }
+}
