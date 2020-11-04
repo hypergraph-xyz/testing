@@ -52,6 +52,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "juliangruber",
+      "name": "Julian Gruber",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10247?v=4",
+      "profile": "https://github.com/juliangruber",
+      "contributions": [
+        "infra",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
